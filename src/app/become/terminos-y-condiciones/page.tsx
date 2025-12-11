@@ -15,15 +15,14 @@ export default function TerminosCondiciones() {
 
       <section className="space-y-4">
         <p>
-          Por el hecho de ingresar a la Página Web de ENTIDAD PARA LA INCLUSIÓN
-          Y LA BANCARIZACIÓN BECOME DIGITAL, entendemos la aceptación y
-          conocimiento por parte del Usuario de nuestros términos y condiciones,
-          así como nuestra política de privacidad. El Usuario se compromete a
-          revisar estas secciones para estar informado de las modificaciones que
-          pudieran realizársele a las mismas, y cada nuevo acceso del usuario a
-          la página será considerado una aceptación tácita de las nuevas
-          condiciones, la fecha de la última actualización de cada documento se
-          encuentra en la parte final del mismo.
+          Por el hecho de ingresar a la Página Web de BECOME DIGITAL, entendemos
+          la aceptación y conocimiento por parte del Usuario de nuestros
+          términos y condiciones, así como nuestra política de privacidad. El
+          Usuario se compromete a revisar estas secciones para estar informado
+          de las modificaciones que pudieran realizársele a las mismas, y cada
+          nuevo acceso del usuario a la página será considerado una aceptación
+          tácita de las nuevas condiciones, la fecha de la última actualización
+          de cada documento se encuentra en la parte final del mismo.
         </p>
         <p>
           Si el Usuario no está de acuerdo con estas Condiciones o con cualquier
