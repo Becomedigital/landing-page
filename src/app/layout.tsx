@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -30,11 +31,15 @@ export default function RootLayout({
         <header className="py-6 px-4 md:px-8 border-b border-gray-800 bg-[#0B1120]/90 backdrop-blur sticky top-0 z-50">
           <div className="container mx-auto">
             <div className="flex items-center gap-2">
-              {/* Simple text logo based on request - can be replaced with Image if we had one */}
-              <span className="text-2xl font-bold tracking-tight">
-                <span className="text-white">become</span>
-                <span className="text-[#00C7B1]">digital</span>
-              </span>
+              {/* Renderizado de logo desde imagen */}
+              <Image
+                src="/become-logo-white.png"
+                alt="Become Digital Logo"
+                width={30}
+                height={10}
+                priority
+                className="h-8 w-auto"
+              />
             </div>
           </div>
         </header>
