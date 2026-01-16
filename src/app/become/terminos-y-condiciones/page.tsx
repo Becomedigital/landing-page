@@ -15,107 +15,34 @@ export default function TerminosCondiciones() {
 
       <section className="space-y-4">
         <p>
-          Por el hecho de ingresar a la Página Web de BECOME DIGITAL, entendemos
-          la aceptación y conocimiento por parte del Usuario de nuestros
-          términos y condiciones, así como nuestra política de privacidad. El
-          Usuario se compromete a revisar estas secciones para estar informado
-          de las modificaciones que pudieran realizársele a las mismas, y cada
-          nuevo acceso del usuario a la página será considerado una aceptación
-          tácita de las nuevas condiciones, la fecha de la última actualización
-          de cada documento se encuentra en la parte final del mismo.
+          El acceso a la información disponible en los canales digitales de <strong>BECOME DIGITAL S.A.S.</strong>, incluido el uso del servicio <strong>BeCredit a través de WhatsApp</strong>, no implica en ningún caso la aceptación tácita de los términos y condiciones ni de la política de tratamiento de datos personales. La aceptación de dichos documentos se realiza únicamente mediante mecanismos de manifestación expresa, libre, previa e informada por parte del usuario, tales como la confirmación explícita dentro del flujo del chatbot, el registro en la plataforma o la firma de los documentos contractuales que resulten aplicables. En consecuencia, si el usuario no está de acuerdo con los presentes términos o con la política de tratamiento de datos personales, deberá abstenerse de continuar con el uso del servicio.
         </p>
         <p>
-          Si el Usuario no está de acuerdo con estas Condiciones o con cualquier
-          disposición de la Política de Privacidad, le sugerimos que se abstenga
-          de acceder o navegar por el Sitio Web de nuestra empresa.
+          El servicio <strong>BeCredit</strong>, prestado a través del canal WhatsApp y otros medios digitales habilitados por BECOME DIGITAL, permite a los usuarios interactuar con la plataforma para iniciar solicitudes, suministrar información, validar su identidad y recibir comunicaciones relacionadas con los productos y servicios ofrecidos. El uso del chatbot constituye exclusivamente un canal de interacción y gestión, y no implica la aprobación automática de productos, la concesión de crédito ni la celebración de contratos, los cuales estarán siempre sujetos al cumplimiento de requisitos legales, técnicos y operativos, así como a la evaluación y aprobación previa por parte de BECOME DIGITAL.
         </p>
         <p>
-          Es responsabilidad del usuario el acceso y uso del material publicado.
-          Cualquier diferencia que surja por el uso de este sitio, en cuanto a
-          su contenido, material publicado, etc., será regida por las leyes
-          vigentes en la República de Colombia. Los productos y servicios
-          anunciados no constituyen una oferta según los términos de la
-          legislación colombiana, por lo que BECOME DIGITAL, se reserva el
-          derecho de modificar unilateralmente y sin previo aviso el contenido y
-          los servicios prestados a través del presente sitio.
+          El usuario es responsable del acceso y uso adecuado de los canales digitales, así como de la veracidad, integridad y actualización de la información suministrada. Cualquier controversia que se derive del uso de los servicios será regida por las leyes vigentes de la República de Colombia. Los productos y servicios divulgados no constituyen una oferta en los términos de la legislación colombiana, por lo que BECOME DIGITAL se reserva el derecho de modificar, suspender o actualizar unilateralmente los contenidos y servicios, en cumplimiento de la normativa aplicable.
         </p>
         <p>
-          BECOME DIGITAL, posibilita el acceso a otros sitios de Internet a
-          través de &quot;Links&quot;, cuya inclusión en este sitio no
-          compromete en ningún sentido a BECOME DIGITAL; igualmente BECOME
-          DIGITAL no se responsabiliza por el contenido y administración de
-          ninguno de ellos.
+          BECOME DIGITAL podrá facilitar enlaces o accesos a sitios web o plataformas de terceros, sin que ello implique responsabilidad, control o aprobación sobre su contenido, políticas o prácticas. De igual forma, todos los activos intangibles tales como marcas, nombres comerciales, signos distintivos, contenidos, desarrollos tecnológicos y demás elementos utilizados en los canales digitales son de propiedad exclusiva de BECOME DIGITAL o se encuentran debidamente licenciados, quedando prohibido cualquier uso no autorizado.
         </p>
         <p>
-          Todos los bienes inmateriales susceptibles de ser protegidos tales
-          como: marcas, nombres comerciales, lemas, enseñas, signos distintivos
-          y demás, usados en este sitio son de propiedad exclusiva de BECOME
-          DIGITAL, excepción hecha a los referidos en el párrafo anterior, que
-          son propiedad de sus respectivos titulares. En consecuencia, sin la
-          previa autorización otorgada en cada caso y por escrito por BECOME
-          DIGITAL, no se podrá hacer uso comercial alguno de tales elementos.
+          Las condiciones de conectividad, seguridad del dispositivo, acceso a Internet y funcionamiento de plataformas de terceros, incluyendo WhatsApp, son responsabilidad exclusiva del usuario. BECOME DIGITAL no garantiza la disponibilidad permanente del servicio ni se hace responsable por fallas derivadas de factores externos o no controlables.
         </p>
         <p>
-          Las condiciones de conectividad serán responsabilidad de cada uno de
-          los usuarios de la plataforma BECOME DIGITAL. El acceso a este sitio
-          está sujeto a variables no controladas por BECOME DIGITAL y propias de
-          Internet. Cuando el usuario acceda a la página www.gulungo.com, será
-          responsabilidad del mismo tomar las medidas de seguridad pertinentes
-          para evitar virus u otros agentes nocivos.
+          Los datos personales suministrados por los usuarios a través del sitio web, plataformas digitales o del servicio <strong>BeCredit vía WhatsApp</strong> serán tratados conforme a la Política de Tratamiento de Datos Personales de BECOME DIGITAL, en cumplimiento de la Ley 1581 de 2012, el Decreto 1074 de 2015 y demás normas concordantes. El tratamiento se realizará para finalidades legítimas, específicas e informadas, relacionadas con la prestación del servicio, la validación de identidad, el análisis de riesgo, la prevención del fraude y el cumplimiento de obligaciones legales y contractuales. La recolección y tratamiento de datos sensibles o biométricos se llevará a cabo únicamente con autorización expresa, previa y diferenciada del titular, informando de manera clara las finalidades, riesgos y condiciones aplicables.
         </p>
         <p>
-          Los datos personales y comerciales consignados en los sitios web de
-          BECOME DIGITAL serán incluidos en ficheros de datos de carácter
-          personal y/o comercial y/o archivos y/o mensajes de datos
-          digitalizados de propiedad de BECOME DIGITAL, que manejará los datos
-          los cuales son necesarios para el uso de las funcionalidades de los
-          mismos. Los usuarios aceptan que dichos datos recopilados a través de
-          los sitios propiedad de BECOME DIGITAL pueden ser almacenados en bases
-          de datos propiedad de BECOME DIGITAL, de compañías relacionadas, o de
-          terceros expresamente autorizados por BECOME DIGITAL, filiales o
-          matrices.
+          Para la prestación del servicio BeCredit, BECOME DIGITAL podrá interactuar con terceros tales como <strong>TransUnion u otras centrales de riesgo</strong>, quienes actuarán como responsables del tratamiento de la información que administran, así como con proveedores tecnológicos que actuarán como encargados del tratamiento, bajo acuerdos contractuales que garantizan la confidencialidad, seguridad de la información y el cumplimiento de la normativa de protección de datos personales. En ningún caso la intervención de dichos terceros exime a BECOME DIGITAL de sus obligaciones legales frente al usuario en el marco de su rol.
         </p>
         <p>
-          Ley aplicable para nuestro proceso de firma de documentos: Decreto
-          2364 de 2012 &quot;Por medio del cual se reglamenta el artículo 7 de
-          la Ley 527 de 1999, sobre la firma electrónica y se dictan otras
-          disposiciones&quot;: – Facilitar, incentivar y promover el uso masivo
-          de la firma electrónica en todo tipo de transacciones. – Dar seguridad
-          jurídica a los negocios que se realicen a través de medios
-          electrónicos, dejando constancia las partes, en los términos del
-          artículo 244 del código General del proceso, para este contrato, los
-          documentos en forma de mensaje de datos, se presumen auténticos.
+          Los procesos de suscripción y firma de documentos se regirán por lo dispuesto en el Decreto 2364 de 2012, que reglamenta el uso de la firma electrónica en Colombia. Los documentos suscritos mediante mensajes de datos se presumen auténticos conforme a lo establecido en el artículo 244 del Código General del Proceso. Para acceder a los productos y servicios de BECOME DIGITAL, el usuario deberá completar los procesos de registro, diligenciamiento de solicitudes y aceptación expresa de los términos aplicables, estando todo servicio sujeto a evaluación y aprobación previa.
         </p>
         <p>
-          Por el sólo hecho de acceder a este sitio, los usuarios están
-          aceptando los términos y condiciones aquí definidos. Para acceder a
-          los productos y servicios de BECOME DIGITAL es necesario registrarse
-          en la plataforma tecnológica become digital, diligenciar una solicitud
-          y firmar los documentos y contratos adicionales que se requieren para
-          cada producto o servicio, siempre sujeto a previa aprobación por parte
-          de BECOME DIGITAL
+          Los servicios ofrecidos por BECOME DIGITAL pueden tener costos asociados y pueden impactar la historia crediticia del usuario o de su empresa. El incumplimiento de las obligaciones adquiridas podrá generar intereses de mora, gastos de cobranza y reportes a las centrales de riesgo, conforme a la ley.
         </p>
         <p>
-          Los servicios y productos de BECOME DIGITAL pueden tener costos
-          asociados y pueden afectar tu historia crediticia o la de tu empresa.
-          El atraso en el pago genera intereses de mora, gastos de cobranza y
-          reporte en las centrales de riesgo.
-        </p>
-        <p>
-          BECOME DIGITAL podrá modificar los Términos y Condiciones Generales en
-          cualquier momento, haciendo públicos en el sitio web los términos
-          modificados. Todos los términos modificados entrarán en vigor a los 10
-          (diez) días de su publicación. Dentro de los 5 (cinco) días siguientes
-          a la publicación de las modificaciones introducidas, el Usuario deberá
-          contactarnos, si no acepta las mismas; en ese caso quedará disuelto el
-          vínculo contractual y será inhabilitado como Miembro. Vencido este
-          plazo, se considerará que el Usuario acepta los nuevos términos y el
-          contrato continuará vinculando a ambas partes.
-        </p>
-        <p>
-          BECOME DIGITAL no usa intermediarios para diligenciar, estudiar,
-          agilizar o procesar tus solicitudes. NO te dejes engañar y comunícanos
-          inmediatamente cualquier irregularidad a info@becomedigital.ai
+          BECOME DIGITAL podrá modificar estos términos y condiciones cuando sea necesario. Las modificaciones sustanciales serán informadas a los usuarios por los canales habituales y, cuando corresponda, requerirán una nueva aceptación expresa. Finalmente, BECOME DIGITAL informa que no utiliza intermediarios para diligenciar, estudiar, agilizar o procesar solicitudes, por lo que cualquier irregularidad deberá ser reportada de manera inmediata al correo <a href="mailto:info@becomedigital.ai"><strong>info@becomedigital.ai</strong></a>.
         </p>
       </section>
     </div>
